@@ -1,0 +1,7 @@
+target/
+.idea/
+.vscode/
+*.iml
+__pycache__/
+.DS_Store
+*.pdf
